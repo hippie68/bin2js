@@ -26,7 +26,7 @@ and "morepayloads/" from *.bin to *.js.
 
 Or convert a single file and specify the output file name:
 
-    bin2js goldhen.bin -o goldhen.js
+    bin2js goldhen.bin -o goldhen_v2.0_fw755.js
 
 To compile, just enter
     
