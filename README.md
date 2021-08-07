@@ -19,7 +19,7 @@ Usage: bin2js [-cr] file1/directory1 [file2/directory2 ...]
 
 Batch-convert an unlimited number of files and/or (sub)directories, for example:
 
-    bin2js goldhen.bin dumper.bin payloads/ morepayloads/ ftp.bi
+    bin2js goldhen.bin dumper.bin payloads/ morepayloads/ ftp.bin
     
 Which will automatically create "goldhen.js", "dumper.js", "ftp.js", and convert all .bin files in the directories "payloads/"
 and "morepayloads/" from *.bin to *.js.
